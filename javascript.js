@@ -10,6 +10,7 @@
      [0, 4, 8],
      [2, 4, 6]
  ];
+ //Needed to shorten the code for readability
  var p1 = 0;
  var p2 = 0;
  var turn = 1;
